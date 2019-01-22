@@ -1,9 +1,13 @@
-.body{
+.body {
   padding-bottom: 50px;
 }
 
 .main-container {
   margin-top: 20px;
+}
+
+.img-logo {
+  max-width: 200px;
 }
 
 /* Animaciones */
